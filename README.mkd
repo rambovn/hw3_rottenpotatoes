@@ -1,4 +1,5 @@
-Homework 3: Behavior-Driven Design ==================================
+Homework 3: Behavior-Driven Design
+==================================
 
 In this homework you will create user stories to describe a feature of a SaaS
 app, use the Cucumber tool to turn those stories into executable acceptance
@@ -77,7 +78,9 @@ movie has no ratings).
 
 Since it's tedious to repeat steps such as
 
-    When I check the 'PG' checkbox, And I check the 'R' checkbox, etc.
+    When I check the 'PG' checkbox,
+    And I check the 'R' checkbox,
+    etc.
 
 create a step definition to match a step such as:
 
